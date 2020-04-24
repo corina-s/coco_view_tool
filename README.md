@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CocoViewTool::Renderer.copyright "Coco", "All rights reserved"
+```
 
 ## Development
 
